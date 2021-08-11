@@ -18,7 +18,7 @@
 
 ## Upcoming Conferences
 
-* None; Because COVID-19. Check back later?
+* [Longhorn PHP](https://www.longhornphp.com/) Oct 14-16 2021 in Austin, TX
 
 ## Social Media
 
