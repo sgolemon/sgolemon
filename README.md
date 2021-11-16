@@ -1,6 +1,6 @@
 # Sara Golemon
 
-![aka Voltra the short-circuited](https://weca.mp/2016/images/coach/sara.png)
+![aka Voltra the short-circuited](./voltra.png)
 
 ## Top Open Source highlights
 
