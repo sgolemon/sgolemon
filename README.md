@@ -22,5 +22,5 @@
 
 ## Social Media
 
-* [@SaraMG@fostodon.org](https://fostodon.org/@SaraMG) Main account
+* [@SaraMG@fosstodon.org](https://fosstodon.org/@SaraMG) Main account
 * [@pollita@phpc.social](https://phpc.social/@pollita) PHP specific goings on
