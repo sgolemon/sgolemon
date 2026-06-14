@@ -24,3 +24,5 @@
 
 * [@SaraMG@fosstodon.org](https://fosstodon.org/@SaraMG) Main account
 * [@pollita@phpc.social](https://phpc.social/@pollita) PHP specific goings on
+* [YouTube/@Phparch](https://www.youtube.com/@Phparch/streams) Occaisional guest host on PHPArchitect Podcast
+* [YouTube/@PHPRoundtable](https://www.youtube.com/@PHPRoundtable/streams) Future necromancer of the PHP Roundtable podcast
